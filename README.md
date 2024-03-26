@@ -30,8 +30,31 @@ The involved exploring questions are as follows:
  - What is the stock volume trend by month.
  - What is High and Low price of companies.
  - How is the companies doing in term of overall volume.
+ - What is the total companies.
+ - What is the Total stock volume.
 
-   ### 
+
+   ### Results/findings
+
+
+   The Analysis results are summarized as:
+
+The total numbers of companies involved from dataset is 10 which are Apple,
+
+The month will highest trend is march at 48bn while November was the least performed month.
+
+The Year 2020 has the highest sum of volume. 
+
+Amazon was the highest adjusted closing company while google was second in position and uber was the lowest adjusted closing company. 
+
+Apple top the chart as the highest sum of  voulme by company at 0.24Trillions. 
+
+
+
+### Limitation 
+
+
+
 
 
 
